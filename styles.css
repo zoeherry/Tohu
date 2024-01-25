@@ -1,0 +1,25 @@
+body {
+  margin: 10px;
+  height: 100%;
+}
+h1 {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+img {
+  height: 8rem;
+  width: 8rem;
+  object-fit: cover;
+  float: left;
+  margin-right: 1em;
+  border-radius: 4rem;
+}
+.origin {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+.versions {
+  background-color: lightgray;
+}
